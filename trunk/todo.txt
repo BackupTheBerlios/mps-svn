@@ -1,3 +1,4 @@
 2004-12-31 Jose Marti
 ---------------------
 - Definir el arbol de directorios del proyecto
+- Dar de alta a todos los miembros de MPS
