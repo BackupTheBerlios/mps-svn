@@ -2,3 +2,5 @@
 ---------------------
 - Definir el arbol de directorios del proyecto
 - Dar de alta a todos los miembros de MPS
+- Decidir la página de BerliOS
+
