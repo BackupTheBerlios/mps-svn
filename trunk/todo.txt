@@ -4,3 +4,8 @@
 - Dar de alta a todos los miembros de MPS
 - Decidir la página de BerliOS
 
+2005-01-03 Jose Marti
+---------------------
+- Definir el formato del glosario
+
+
