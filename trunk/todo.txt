@@ -1,0 +1,3 @@
+2004-12-31 Jose Marti
+---------------------
+- Definir el arbol de directorios del proyecto
